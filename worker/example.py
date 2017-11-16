@@ -9,7 +9,7 @@ class Resource(object):
         doc = {
             'result': [
                 {
-                    'item': 'Blaaaahhhh'
+                    'item': 'Hello World'
                 }
             ]
         }
